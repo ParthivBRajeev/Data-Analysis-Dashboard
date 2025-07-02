@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Maven Toy Sales Data-Analysis (Interactive Dashboard creation using Power BI)
+## Project Objective
+Maven Toy wants to create an annual sales report for 2018. So that, the owner of Maven Toy can understand their customers and grow more sales in 2019 & 2020.
