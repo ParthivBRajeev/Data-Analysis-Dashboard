@@ -21,6 +21,9 @@ Maven Toy wants to create an annual sales report for 2018. So that, the owner of
 - Created visuals according to the questions asked.
 - Merged all tables into one dashboard and apply slicer to make dynamic
 
+## Dashboard
+
+![Screenshot 2025-07-02 160901](https://github.com/user-attachments/assets/dc3278ba-e149-4030-992e-63b3c75e38b6)
 
 
 
