@@ -13,13 +13,13 @@ Maven Toy wants to create an annual sales report for 2018. So that, the owner of
 - Which products have generated the highest and lowest YTD sales?
 - How does product-wise sales performance compare across different time periods (month, quarter, year)?
 
-#Dashboard Interaction <a href="https://github.com/ParthivBRajeev/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-02%20160901.png">View Dashboard</a>
+# Dashboard Interaction <a href="https://github.com/ParthivBRajeev/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-02%20160901.png">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic
+- Created visuals according to the questions asked.
+- Merged all tables into one dashboard and apply slicer to make dynamic
 
 
 
